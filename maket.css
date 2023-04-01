@@ -1,0 +1,43 @@
+.posit1 {background-color: rgb(235, 245, 245);
+        text-align: center;
+        position: absolute;
+        height: 550px;
+        width: 170px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: 500;}
+
+.posit2 {background-color: aquamarine;
+        position: absolute;
+        height: 550px;
+        left: 200px;}
+
+
+.divsol {position: relative;
+        top: 10px;}
+.divmer {position: relative;
+        top: 20px;}
+.divven {position: relative;
+        top: 30px;}
+.divzem {position: relative;
+        top: 40px;}
+
+
+h1 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-align: center;}
+
+h2 {font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;}
+
+
+
+#planet1 {width: 300px;
+          height: 300px;
+          margin-left: 100px;
+          margin-right: 50px;}
+
+#planet2 {width: 300px;
+          height: 300px;
+          margin-left: 100px;
+          margin-right: 50px;}
